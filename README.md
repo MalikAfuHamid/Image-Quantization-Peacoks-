@@ -1,1 +1,1 @@
-# Image-Quantization-Peacoks-
+# Image-Quantization-Peacocks-
